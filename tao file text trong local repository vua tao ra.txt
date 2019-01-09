@@ -3,3 +3,4 @@ oki roi thu push lai len coi co duoc ko nao
 chua duoc
 ok duoc roi
 thu thay doi de merge 2 nd
+pull ve roi ma nhi
